@@ -13,7 +13,7 @@ feat(lang): add polish language
 
 ### Features
 
-* ทดสอย changelog ([2ae2057](https://github.com/pthongtaem/changelog-tutorial/commit/2ae2057e178d4d70bd2cc5a0de08838dcdaf4ac7))
+* ทดสอบ changelog ([2ae2057](https://github.com/pthongtaem/changelog-tutorial/commit/2ae2057e178d4d70bd2cc5a0de08838dcdaf4ac7))
 
 ### [1.0.3](https://github.com/pthongtaem/changelog-tutorial/compare/v1.0.2...v1.0.3) (2020-01-08)
 
