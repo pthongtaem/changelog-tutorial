@@ -1,0 +1,14 @@
+{
+  "name": "changelog-tutorial",
+  "version": "1.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/pthongtaem/changelog-tutorial.git",
+  "author": "Pol Thongtaem <pthongtaem@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "devDependencies": {
+    "standard-version": "^7.0.1"
+  }
+}
