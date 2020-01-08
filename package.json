@@ -1,6 +1,6 @@
 {
   "name": "changelog-tutorial",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "repository": "https://github.com/pthongtaem/changelog-tutorial.git",
   "author": "Pol Thongtaem <pthongtaem@hotmail.com>",
