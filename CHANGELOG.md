@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.0](https://github.com/pthongtaem/changelog-tutorial/compare/v2.1.1...v2.2.0) (2020-01-08)
+
+
+### Features
+
+* function 6 ([bec3e69](https://github.com/pthongtaem/changelog-tutorial/commit/bec3e6978ba60a3c027733921b7f78d20d69b3ec))
+* ทดสอบ function 7 ([cfd2c5b](https://github.com/pthongtaem/changelog-tutorial/commit/cfd2c5ba6ec6ed41aa75739ec47fc3c0c4edd529))
+
 ### [2.1.1](https://github.com/pthongtaem/changelog-tutorial/compare/v2.1.0...v2.1.1) (2020-01-08)
 
 
