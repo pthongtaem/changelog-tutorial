@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.2.1](https://github.com/pthongtaem/changelog-tutorial/compare/v2.2.0...v2.2.1) (2020-01-08)
+
+
+### Bug Fixes
+
+* **lang:** add polish language ([8053f98](https://github.com/pthongtaem/changelog-tutorial/commit/8053f984c63eae47dd80134f70600dabc156de09))
+* function 8 ([fb93021](https://github.com/pthongtaem/changelog-tutorial/commit/fb9302181aa2066a23e98c52222d0602683ee336))
+
 ## [2.2.0](https://github.com/pthongtaem/changelog-tutorial/compare/v2.1.1...v2.2.0) (2020-01-08)
 
 
