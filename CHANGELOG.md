@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/pthongtaem/changelog-tutorial/compare/v2.1.0...v2.1.1) (2020-01-08)
+
+
+### Bug Fixes
+
+* correct minor typos in code ([c4f55e9](https://github.com/pthongtaem/changelog-tutorial/commit/c4f55e9f8d1309dac6e7c01cf8e0d4d64242d921)), closes [#133](https://github.com/pthongtaem/changelog-tutorial/issues/133)
+
 ## [2.1.0](https://github.com/pthongtaem/changelog-tutorial/compare/v2.0.0...v2.1.0) (2020-01-08)
 
 
