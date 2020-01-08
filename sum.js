@@ -1,3 +1,3 @@
-const sum7 = (a, b) => a + b;
+const sum8 = (a, b) => a + b;
 
-console.log(sum7(1, 2));
+console.log(sum8(1, 2));
